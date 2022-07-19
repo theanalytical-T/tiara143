@@ -13,6 +13,8 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@trbrunt](https://hashnode.com/@trbrunt)
 
+- 📈 Keep up with my progress on [https://www.codewars.com/users/t-brunt]
+
 - 💬 Ask me about **HTML/CSS, Sass, JavaScript**
 
 - 📫 How to reach me **trbrunt@yahoo.com**
