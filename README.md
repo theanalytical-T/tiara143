@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiara</h1>
-<h3 align="center">A passionate web developer from Florida</h3>
+<h3 align="center">A passionate data analyst from Florida</h3>
 
-- 🔭 I’m currently working on **an ecommerce site involving javascript and react.**
+- 🔭 I’m currently working on **upcoming projects soon**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **learning React for this upcoming project.**
+- 🤝 I’m looking for help with **learning advanced SQL functions**
 
 - 👨‍💻 All of my projects are available at [https://tiara-brunt.netlify.app/](https://tiara-brunt.netlify.app/)
 
@@ -15,11 +15,11 @@
 
 - 📈 Keep up with my progress on [https://www.codewars.com/users/t-brunt]
 
-- 💬 Ask me about **HTML/CSS, Sass, JavaScript**
+- 💬 Ask me about **Excel, SQL, Tableau**
 
 - 📫 How to reach me **trbrunt@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tiara-brunt-7ab01518a/](https://www.linkedin.com/in/tiara-brunt-7ab01518a/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tiara-brunt](https://www.linkedin.com/in/tiara-brunt)
 
 - ⚡ Fun fact **I've traveled across country in a camper.**
 
